@@ -28,7 +28,7 @@ def mensajeCompleto(frase, clave):    # Convertir todo a mayúsculas para evitar
 print("****************")
 print("Ejercicio 1.2 Cifrar un Mensaje Completo")
 print(mensajeCompleto("CONTRASEÑA SEGURA",3))
-print("****************\n")
+print("*****************\n")
 
 
 #Ejercicio 1.3 descrifrar codigo
