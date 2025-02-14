@@ -10,7 +10,7 @@ def cifrarletra(letra, clave):
 print("****************")
 print("Ejercicio 1.1 Cifrar una Letra")
 print(cifrarletra("A", 3))
-print("***************\n")
+print("**************\n")
 
 #ejercicio 1.2 Cifrar un Mensaje Completo
 
