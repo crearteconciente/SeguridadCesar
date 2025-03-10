@@ -97,7 +97,7 @@ def cifrar_frase_intercalado(frase, clave):
 
 print("3.2 Intercalando mayúsculas y minúsculas")
 cifrar_frase_intercalado("AaBbCcDd", 3)
-print("*****************\n")
+print("******************\n")
 
 #3.3 Usando simbolos 
 def cifrar_frase_simbolos(frase, clave):
